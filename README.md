@@ -15,3 +15,15 @@ NRC: 7318
 *  
 
 **2. Marco Teórico**
+
+**3. Ejercicios Resueltos**
+
+
+**4. Video**
+
+**5. Conclusiones**
+
+**6. Bibliografia**
+
+Floyd, T. M. (2007). 5 Principios de Circuitos Electricos (8.a ed.). Pearson Education.
+
