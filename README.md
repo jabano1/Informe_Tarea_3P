@@ -168,6 +168,97 @@ Solucion:
 
 **CAPITULO 16**
 
+**18. Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.**
+
+![image](https://user-images.githubusercontent.com/105677231/186521299-434c07f2-777e-41d2-96b0-570f9feff602.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186521402-679d2e09-a816-4831-b8c7-797d3364564d.png) 
+
+![image](https://user-images.githubusercontent.com/105677231/186521482-8d93ba35-3686-4157-898e-e9fd9095ff2e.png)
+
+**20. Repita el problema 19 para las siguientes frecuencias: Se debe determinar la impedancia expresada en forma polar.**
+
+![image](https://user-images.githubusercontent.com/105677231/186521529-1b6788a9-598d-420a-b521-9f110557c461.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186521639-a2902285-f5d4-40a2-9e25-01f810fba0d2.png)
+
+![image](https://user-images.githubusercontent.com/105677231/186521700-250ccd97-70be-4f15-9d24-d6aedcba01c4.png)
+
+![image](https://user-images.githubusercontent.com/105677231/186521729-7822abd9-adb6-4a25-9c19-ea88bcf582f0.png)
+
+**22. Encuentre la corriente total y cada corriente de rama en la figura 16-64.**
+
+![image](https://user-images.githubusercontent.com/105677231/186521786-bd8f8a30-4c4e-4ac9-b4c1-9c59cbce6432.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186521826-e77fdc05-ee60-4b11-9e12-9314f8a4691a.png)
+
+**24. Repita el problema 23 para R =56Ω y L =330 µH.**
+
+--Se debe determinar: a) Z, b) IR,  c)IL, d)ITotal, e) Angulo theta. 
+
+![image](https://user-images.githubusercontent.com/105677231/186521907-5fe1254c-bad7-4a9b-a197-767791235aae.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186521993-7ccb2846-b414-46e9-a1bb-02248325b8bb.png)
+
+![image](https://user-images.githubusercontent.com/105677231/186522034-1bf16ea1-25db-41d7-b782-acf2cd4c5813.png)
+
+**26. Determine la magnitud y el ángulo de fase de la corriente total que aparece en la figura 16-67.**
+
+![image](https://user-images.githubusercontent.com/105677231/186522082-099029c5-9ff7-4894-b13e-237cdbeb8b07.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186522145-3c634c79-801a-45d8-bf0c-5ac30a22e23b.png)
+
+**28. ¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?**
+
+![image](https://user-images.githubusercontent.com/105677231/186522236-28ea8e53-8d8a-4f14-83fb-94b8a76687b6.png)
+
+Solucion:
+
+-Es predominantemente inductivo ya que para que sea predominante resistivo, debe presentarse una sola resistencia, y en este caso se tiene tres resistencias conectadas. En este tipo de circuito, la corriente está por detrás del voltaje en un ángulo de 90 grados.
+
+**30. Para el circuito de la figura 16-69, determine lo siguiente:**
+
+![image](https://user-images.githubusercontent.com/105677231/186522333-053eb54b-3161-491a-bf37-f7de1e5666fa.png)
+
+![image](https://user-images.githubusercontent.com/105677231/186522398-5c1f1470-76cd-47e2-bac6-6b02d185c12a.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186522445-59f0288d-60fa-4243-84a1-c923005d4e63.png)
+
+![image](https://user-images.githubusercontent.com/105677231/186522491-211534e6-e93e-4a55-a3ab-7418fa63611c.png)
+
+**36. En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuál es la potencia aparente?**
+
+-La potencia aparente se calcula mediante la corriente al cuadrado por la impedancia, asi que se debe primero obtener los valores de las resistencias y el voltaje de la fuente para poder corroborar los valores dados y obtener la potencia aparente. 
+
+**38.  ¿Cuál es el factor de potencia en la figura 16-64?**
+
+![image](https://user-images.githubusercontent.com/105677231/186522613-c8683325-a407-48bf-a1e1-1e5b02c466be.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186522656-ad6a43d9-4e85-42ab-85be-82f2dda6c382.png)
+
+**42. Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62.**
+
+![image](https://user-images.githubusercontent.com/105677231/186522704-14d1005d-4f86-40a8-b864-1613164cfc5f.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186522771-3c640223-981d-49c6-a0f6-4cbefc6a4aaa.png)
+
+![image](https://user-images.githubusercontent.com/105677231/186522804-40af4d70-75c5-422b-a753-601fef0020e4.png)
 
 **4. Video**
 
