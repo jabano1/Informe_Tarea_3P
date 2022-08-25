@@ -263,9 +263,123 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/186560794-807ea327-cfd9-47f8-9f21-958c7fa6dba9.png)
 
+**58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?**
+
+![image](https://user-images.githubusercontent.com/105677231/186561398-76c0170f-572f-4579-b285-cb658f443ae1.png)
+
+-La potencia real,es aquella potencia que se encuentra en un resistor.  (Preal = I^2  R) 
+ 
+ La potencia reactiva,es aquella potencia que se encuentra en un capacitor.(Pr = I^2  Xc)
+
+**60. Determine Preal, Pr, Pa, y FP para el circuito de la figura 15-101. Trace el triángulo de potencia.**
+
+![image](https://user-images.githubusercontent.com/105677231/186561463-eb5c21bd-d48a-487b-be81-1b0bade6a076.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186561499-876b1863-1166-425c-b89b-f6b20d23bafc.png)
+
+**62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de 0.0022 µF y todos los resistores de 10 kΩ.**
+
+![image](https://user-images.githubusercontent.com/105677231/186561521-dadb00d9-3f5d-4f42-a6c3-af5277781711.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186561550-19400702-e2a6-4597-af04-87fe7f414d23.png)
+
+**64. El valor rms del voltaje de señal que sale del amplificador A en la figura 15-105 es de 50 mV. Si la resistencia de entrada al amplificador B es de 10 kΩ, ¿qué tanto de la señal se pierde debido al capacitor de acoplamiento cuando la frecuencia es de 3 kHz?**
+
+![image](https://user-images.githubusercontent.com/105677231/186561577-60d30d0c-81a2-4ac2-bf3a-5e460e084eaf.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186561602-897556d6-c833-49e2-9870-93bdb748c2e3.png)
+
+**66. Los capacitores de la figura 15-107 han desarrollado una resistencia de fuga de 2 kΩ. Determine los voltajes de salida en esta condición para cada circuito.**
+
+![image](https://user-images.githubusercontent.com/105677231/186561633-e1cfade5-49d8-4906-8b7a-058b7288827b.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186561680-d62a1d6d-a7a0-47de-a5a9-b604f3fb1656.png)
+
 ***
 
 **CAPITULO 16**
+
+**2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?**
+
+- I retrasada con respecto a Vs.
+
+- VR adelantado con respecto a Vs.
+
+- VL adelantado con respecto a Vs.
+
+**4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.**
+
+![image](https://user-images.githubusercontent.com/105677231/186561892-362087be-24a0-410e-9836-e4e03a9e597c.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186561919-fe11c092-c5bf-49c8-8701-d0491523b2f8.png)
+
+**6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total:**
+
+a) Z = 2.5∠72.5° kΩ
+
+R=0.95Ω,Xl=3.01Ω 
+
+b) Z = 998∠45° Ω 
+
+R=Xl=705.69Ω
+
+c) Z = 20 Ω + j45 Ω 
+
+R=20Ω,Xl=45Ω
+
+d) Z = 500∠35° Ω
+
+R=0.57Ω,Xl=0.4Ω
+
+**8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.**
+
+![image](https://user-images.githubusercontent.com/105677231/186562031-aa133780-9b8f-4193-9285-d2042b1b957b.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186562070-4d34aa78-471c-4436-a06a-e522dfd82adf.png)
+
+**10. Exprese la corriente en forma polar para cada circuito de la figura 16-54.**
+
+![image](https://user-images.githubusercontent.com/105677231/186562100-84c71f09-1201-47b6-8a31-9a4ca9654f41.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186562161-79c89611-aef8-40e2-b1e6-f77f0d66db94.png)
+
+**12. Determine el θ para el circuito de la figura 16-58.**
+
+![image](https://user-images.githubusercontent.com/105677231/186562196-efd796a4-35d5-4d7a-98c5-6843ddfbfa83.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186562214-122c9dd6-94d4-4d83-9329-b557b40cad47.png)
+
+**14. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.**
+
+![image](https://user-images.githubusercontent.com/105677231/186562256-c3f7ca93-2152-44c8-a158-91d568cfe760.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186562280-61694b69-6e0d-43cb-98a0-7f8de4e2130d.png)
+
+**16. Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 16-60. **
+
+![image](https://user-images.githubusercontent.com/105677231/186562322-8c58de48-bf0e-4b14-9122-ccc093b9d914.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186562360-d9266e6a-c145-4e00-9324-ca0a46d3c052.png)
 
 **18. Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.**
 
