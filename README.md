@@ -475,6 +475,8 @@ Solucion:
 
 **4. Video**
 
+https://youtu.be/ymrabnde0Z8
+
 **5. Conclusiones**
 
 - Los circuitos de Rl tienen una resistencia y una capacitancia, se presentan en circuitos basicos mediante el analisis de los numeros complejos y la aplicacion de potencia y varias formulas que sirven para determinar los valores que se necesitan en los problemas.
