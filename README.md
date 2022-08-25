@@ -162,6 +162,15 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/186520799-5392b843-afb6-4857-b53c-e06aa7d70940.png) ![image](https://user-images.githubusercontent.com/105677231/186520827-21ddc442-4e57-48ad-8875-ac4ee519fcbf.png)
 
+**30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.**
+
+![image](https://user-images.githubusercontent.com/105677231/186559473-86ff1c8e-83d8-4ec1-b7c4-681a033ddbde.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/186559518-12020202-a4b1-4a58-814b-1720d55dce29.png)
+
+
 
 
 ***
